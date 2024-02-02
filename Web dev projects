@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Netflix clone </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main">
+        <nav>
+            <span><img width="53" src="assets/Netflix-Logo.wine.svg" alt="logo"></span>
+            <div><button class="btn"> &#198 English <b> &#128899; </b> </button>
+                <button class="btn-red-sm"> Sign in </button>
+            </div>
+        </nav>
+        <div class="box"> </div>
+        <div class="hero">
+            <span class="a1"> Unlimited movies, TV shows and more </span>
+            <span class="a2"> Watch anywhere. Cancel anytime. </span>
+            <span class="a3"> Ready to watch? Enter your email to create or restart your membership. </span>
+            <div>
+                <div class="hero-buttons">
+                    <input placeholder="Email address">
+                    <button class="started"> Get started &#8250 </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="seperator"> </div>
+    <section class="first">
+        <div class="tvmargin">
+            <div class="tv-text">
+                <div class="t1"> Enjoy on your TV </div>
+                <div class="t2"> Watch on smart TVs, PlayStation, Xbox, Chromecast, <br> Apple TV, Blu-ray players and
+                    more. </div>
+            </div>
+            <img src="assets/tv.png" alt="photo" class="tv">
+            <video class="v1" src="assets/video-tv.m4v" autoplay muted loop>
+        </div>
+    </section>
+
+
+    <div class="seperator"> </div>
+
+    <section class="second">
+        <img class="mobile" src="assets/mobile.png.png">
+        <div class="mobile-text">
+            <div class="t1"> Download your shows to <br> watch offline </div>
+            <div class="t2"> Save your favourites easily and always have <br> something to watch. </div>
+        </div>
+
+    </section>
+
+    <div class="seperator"> </div>
+
+    <section class="mac">
+        <div class="tvmargin">
+            <div class="tv-text">
+                <div class="t1"> Watch everywhere </div>
+                <div class="t2"> Stream unlimited movies and TV shows on your <br> phone, tablet, laptop, and TV. </div>
+            </div>
+            <img src="assets/tv.png" alt="photo" class="tv">
+            <video class="v2" src="assets/video-mac.m4v" autoplay muted loop>
+        </div>
+    </section>
+
+    <div class="seperator"> </div>
+
+    <section class="second">
+        <img class="mobile" src="assets/children.png">
+        <div class="mobile-text">
+            <div class="t1"> Create profiles for kids <br> watch offline </div>
+            <div class="t2"> Send children on adventures with their favourite <br> characters in a space made just for
+                them—free with your membership. </div>
+        </div>
+
+    </section>
+
+    <div class="seperator"> </div>
+
+
+
+
+
+
+<section class="faq">
+<div class="fqbox">
+<h2> Frequently asked questions </h2>
+<div class="faqbox"> 
+    <span> What is netflix ? </span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" color="white">
+        <path d="M12 4V20M20 12H4" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        </svg>
+</div>
+<div class="faqbox"> 
+    <span> How much netflix cost ? </span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" color="white">
+        <path d="M12 4V20M20 12H4" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        </svg>
+</div>
+<div class="faqbox"> 
+    <span> Where can i watch ? </span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" color="white">
+        <path d="M12 4V20M20 12H4" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        </svg>
+</div>
+<div class="faqbox"> 
+    <span> How do i Cancel ? </span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" color="white">
+        <path d="M12 4V20M20 12H4" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        </svg>
+</div>
+<div class="faqbox"> 
+    <span> What can i watch on netflix ? </span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" color="white">
+        <path d="M12 4V20M20 12H4" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        </svg>
+</div>
+<div class="faqbox"> 
+    <span> Is it good for kids ? </span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" color="white">
+        <path d="M12 4V20M20 12H4" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        </svg>
+</div>
+</div>
+
+<div class="box lastbox"> </div>
+<div class="hero lasthero">
+    <!-- <span class="a1"> Unlimited movies, TV shows and more </span> -->
+    <!-- <span class="a2"> Watch anywhere. Cancel anytime. </span> -->
+    <span class="a3"> Ready to watch? Enter your email to create or restart your membership. </span>
+    <div>
+        <div class="hero-buttons">
+            <input placeholder="Email address">
+            <button class="started"> Get started &#8250 </button>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="seperator"> </div>
+
+<section class="last">
+<div class="margin">
+    <div class="q text"> Questions? Call 000-800-100-8343 </div>
+<div class="about"> 
+
+ <div class="text">  FAQ </div>
+ <div class="text"> Help Centre </div>
+ <div class="text"> Account </div>
+ <div class="text"> Media Centre </div>
+ <div class="text"> Investor Relations </div>
+ <div class="text"> Jobs </div>
+ <div class="text"> Ways to Watch </div>
+ <div class="text"> Terms of Use </div>
+ <div class="text"> Privacy </div>
+ <div class="text"> Cookie Preferences </div>
+ <div class="text"> Corporate Information </div>
+ <div class="text"> Contact Us</div>
+ <div class="text"> Speed Test</div>
+ <div class="text"> Legal Notices</div>
+ <div class="text"> Only on Netflix</div>
+ <div class="text"> </div>
+ <div><button class="btn"> &#198 English <b> &#128899; </b> </button>
+</div>
+</div>
+<div class="q"> Netflix india </div>
+
+<div class="align">
+
+    </div>
+</section>
+</body>
+</html>
